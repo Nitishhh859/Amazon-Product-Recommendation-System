@@ -67,3 +67,32 @@ user_id | product_id | rating
 ```bash
   outputs/user_recommendations.csv
   ```
+
+---
+
+## 💡 How It Works
+
+- Converts your dataset into a user-item matrix 🧩
+- Computes similarity between products using cosine similarity 🔢
+- Scores products based on user ratings and item popularity 🌟
+- Recommends products the user hasn’t tried yet 🔍💖
+
+----
+
+## 🛠 Tools & Libraries
+
+- Python 🐍
+- Pandas 🗃️
+- NumPy 🔢
+- scikit-learn ⚙️
+- python-docx 📝 (if using Word files)
+
+---
+
+## 👨‍💻 Author
+- Nitish Namdeo ✨
+  
+---
+
+## 📄 License
+- This project is licensed under the MIT License
